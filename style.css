@@ -1,40 +1,62 @@
-*{
-    padding: 0px;
-    margin: 0px;
+* {
+  padding: 0px;
+  margin: 0px;
 }
-#navbar{
-    background-color: black;
-    height: 3rem;
-    position: fixed;
-    
+#navbar {
+  background-color: black;
+  height: 3rem;
+  position: fixed;
 }
-a{
-    list-style-type: none;
-    text-decoration: none;
-    color: white;
-    margin-left: 20px;
-
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
 }
-img{
-    width: 200px;
-    margin-top: 20px;
-}
-.gyth{
-    margin-left: 816.5px;
-}
-.gy{
-    width: 1350px;
-    margin-top: -20px;
+img {
+  width: 200px;
+  margin-top: 20px;
 }
 
-.th{
-    width: 1350px;
-    margin-top: -4px;
+.image3 {
+  width: 1350px;
+  margin-top: -20px;
 }
-.rf{
-    margin-top: 50px;
-    width: 1350px;
+
+.image2 {
+  width: 1350px;
+  margin-top: -4px;
 }
-body{
-    background-color: black;
+.img1 {
+  margin-top: 50px;
+  width: 1350px;
+}
+body {
+  background-color: black;
+}
+.paragraph {
+  color: white;
+  margin-left: 700px;
+  font-size: 15px;
+}
+.button {
+  background-color: blue;
+  border-color: blue;
+
+  color: white;
+  margin-left: 700px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.heading {
+  color: white;
+  margin-left: 700px;
+  margin-top: -250px;
+  font-size: 30px;
+}
+.heading2 {
+  margin-left: 20px;
+  margin-top: 40px;
+  color: blue;
 }
